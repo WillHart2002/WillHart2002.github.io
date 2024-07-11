@@ -2,7 +2,6 @@
 // fnm use --install-if-missing 20
 // node -v
 // npm -v
-// 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
 
 const http = require('http')
 const fs = require('fs')
