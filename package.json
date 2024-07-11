@@ -1,0 +1,22 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "hello there",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillHart2002/personal-website.git"
+  },
+  "author": "Will Hart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WillHart2002/personal-website/issues"
+  },
+  "homepage": "https://github.com/WillHart2002/personal-website#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
