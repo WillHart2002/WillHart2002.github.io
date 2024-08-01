@@ -11,6 +11,10 @@ html, body {
     padding: 0;
   }
 
+body {
+    min-height: 100;
+}
+
 .nav ul {
     margin: 0;
 }
