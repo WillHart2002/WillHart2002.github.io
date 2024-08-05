@@ -55,8 +55,8 @@ body {
 }
 
 .headshot {
-    width: 30%;    
-    height: 30%;
+    width: 25%;    
+    height: 25%;
     border-radius: 45%;
 }
 
@@ -67,6 +67,15 @@ body {
     padding-top: 1%;
     padding-bottom: 1%;
   }
+
+.content {
+    display: flex;
+}
+
+.content p {
+    padding-left: 10%;
+    padding-right: 10%;
+}
 
 .main-footer {
     background-color: white;
