@@ -104,3 +104,16 @@ body {
     padding: .5em;
     text-decoration: none;
 }
+
+/* project page css */
+.project-container {
+    background-image: url("../Images/header-background.jpg");
+    background-size: cover;
+    padding-left: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+
+.project {
+    padding-top: 1px;
+}
