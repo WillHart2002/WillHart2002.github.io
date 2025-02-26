@@ -61,6 +61,7 @@ body {
 }
 
 .content-full {
+    height: 80vh;
     background-image: url("../Images/header-background.jpg");
     background-size: cover;
     padding-left: 5%;
@@ -107,6 +108,7 @@ body {
 
 /* project page css */
 .project-container {
+    height: 80vh;
     background-image: url("../Images/header-background.jpg");
     background-size: cover;
     padding-left: 5%;
